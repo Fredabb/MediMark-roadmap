@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T12:10:35.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="SUZQZAAR8n1SzzAS3csA" version="13.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-22T12:22:07.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="d92V-qvR4Vt_sO_QguC_" version="13.5.0" type="github">
   <diagram id="yzNUyQcvRCuZJqu9L7W9" name="Page-1">
     <mxGraphModel dx="1695" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
         <mxCell id="c7nheeR4Cv1lEZ-zM7IP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" parent="1" source="c7nheeR4Cv1lEZ-zM7IP-29" target="c7nheeR4Cv1lEZ-zM7IP-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c7nheeR4Cv1lEZ-zM7IP-29" value="Daten Speichern" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="c7nheeR4Cv1lEZ-zM7IP-29" value="Daten Speichern, Check validity of Prescription" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="269" y="369" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c7nheeR4Cv1lEZ-zM7IP-30" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" parent="1" source="c7nheeR4Cv1lEZ-zM7IP-22" target="c7nheeR4Cv1lEZ-zM7IP-24" edge="1">
@@ -200,7 +200,7 @@
         <mxCell id="_Fa8hsOXs85D7rB9IlRr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jtWPIGQ9lgPhIsARCJN1-1" target="c7nheeR4Cv1lEZ-zM7IP-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jtWPIGQ9lgPhIsARCJN1-1" value="Add To Cart, calculate prices per article/in total" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="jtWPIGQ9lgPhIsARCJN1-1" value="Add To Cart, add another product, change amount per product,&lt;br&gt;calculate prices per article/in total," style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="510" y="558" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RFfzMiclbLoLRQgerotc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RFfzMiclbLoLRQgerotc-1" target="RFfzMiclbLoLRQgerotc-3" edge="1">
