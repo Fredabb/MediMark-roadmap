@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T11:50:36.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="6_51qMyoQ-Q1DhF_OQAB" version="13.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-22T11:54:55.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Ka-VWA5A-R0RYynPWVM0" version="13.5.0" type="github">
   <diagram id="yzNUyQcvRCuZJqu9L7W9" name="Page-1">
-    <mxGraphModel dx="2287" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,6 +159,9 @@
             <mxPoint x="1008" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RFfzMiclbLoLRQgerotc-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c7nheeR4Cv1lEZ-zM7IP-45" target="RFfzMiclbLoLRQgerotc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c7nheeR4Cv1lEZ-zM7IP-45" value="Muster bewerten" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1360" y="558" width="120" height="40" as="geometry" />
         </mxCell>
@@ -230,6 +233,15 @@
             <mxPoint x="831" y="578" as="sourcePoint" />
             <mxPoint x="1130" y="578" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RFfzMiclbLoLRQgerotc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RFfzMiclbLoLRQgerotc-1" target="RFfzMiclbLoLRQgerotc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfzMiclbLoLRQgerotc-1" value="one should be able to rate the quality of the articles&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfzMiclbLoLRQgerotc-3" value="Muster bewerten" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="690" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
