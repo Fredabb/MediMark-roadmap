@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-27T09:03:24.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="W0xjVvrS9xxpivS2NWO3" version="13.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-27T14:26:30.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="CG5jkfd_vTyWznVG-d8B" version="13.5.3" type="github" pages="2">
   <diagram id="yzNUyQcvRCuZJqu9L7W9" name="Page-1">
     <mxGraphModel dx="1944" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -275,10 +275,58 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tFsazot5UDuzvN4bmBim" name="Page-2">
-    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q34dCDONzooLWPpxG54O-0" />
         <mxCell id="q34dCDONzooLWPpxG54O-1" parent="q34dCDONzooLWPpxG54O-0" />
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#7EA6E0;" edge="1" parent="q34dCDONzooLWPpxG54O-1" source="2i9bHOm-gdq7FOkkqi6v-2" target="2i9bHOm-gdq7FOkkqi6v-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;strokeColor=#7EA6E0;" edge="1" parent="q34dCDONzooLWPpxG54O-1" source="2i9bHOm-gdq7FOkkqi6v-2" target="2i9bHOm-gdq7FOkkqi6v-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-2" value="Rezept einlösen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
+          <mxGeometry x="374" y="92" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9673a6;fillColor=#e1d5e7;" edge="1" parent="q34dCDONzooLWPpxG54O-1" source="2i9bHOm-gdq7FOkkqi6v-4" target="2i9bHOm-gdq7FOkkqi6v-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-4" value="Folge-rezept" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
+          <mxGeometry x="509" y="143" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-5" value="Ersterezept" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
+          <mxGeometry x="269" y="193" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7EA6E0;" edge="1" parent="q34dCDONzooLWPpxG54O-1" source="2i9bHOm-gdq7FOkkqi6v-7" target="2i9bHOm-gdq7FOkkqi6v-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-7" value="Rezept upload" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
+          <mxGeometry x="269" y="255" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7EA6E0;" edge="1" parent="q34dCDONzooLWPpxG54O-1" source="2i9bHOm-gdq7FOkkqi6v-10" target="2i9bHOm-gdq7FOkkqi6v-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="q34dCDONzooLWPpxG54O-1" source="2i9bHOm-gdq7FOkkqi6v-10" target="2i9bHOm-gdq7FOkkqi6v-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-10" value="OCR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
+          <mxGeometry x="269" y="312" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-11" value="Daten Speichern" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
+          <mxGeometry x="269" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" edge="1" parent="q34dCDONzooLWPpxG54O-1" source="2i9bHOm-gdq7FOkkqi6v-5" target="2i9bHOm-gdq7FOkkqi6v-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="136" as="sourcePoint" />
+            <mxPoint x="449" y="86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;endArrow=none;endFill=0;" edge="1" parent="q34dCDONzooLWPpxG54O-1" source="2i9bHOm-gdq7FOkkqi6v-14" target="2i9bHOm-gdq7FOkkqi6v-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2i9bHOm-gdq7FOkkqi6v-14" value="after OCR, patient should be able to update disease type, get informed the insurance coverage with validity check, able to continue with private pay" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;strokeColor=#000000;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
+          <mxGeometry x="590" y="280" width="265" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
