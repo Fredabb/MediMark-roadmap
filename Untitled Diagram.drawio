@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-28T12:14:35.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="SDYCZ-BL7QoSo0PF92Fn" version="13.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-28T12:30:46.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="5kdzx3hbIFqfnsyHT0gq" version="13.5.3" type="github" pages="3">
   <diagram id="yzNUyQcvRCuZJqu9L7W9" name="Overview ">
     <mxGraphModel dx="1944" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,7 +277,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="tFsazot5UDuzvN4bmBim" name="Page-2">
+  <diagram id="tFsazot5UDuzvN4bmBim" name="Rezept einlosen">
     <mxGraphModel dx="2130" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q34dCDONzooLWPpxG54O-0" />
@@ -312,6 +312,12 @@
         <mxCell id="2i9bHOm-gdq7FOkkqi6v-10" value="OCR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="q34dCDONzooLWPpxG54O-1" vertex="1">
           <mxGeometry x="269" y="312" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yegy7WGIJIiIC4VN6rdF-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" edge="1" parent="q34dCDONzooLWPpxG54O-1" source="2i9bHOm-gdq7FOkkqi6v-11" target="Ac96wr7Wo4nM_YrJI3CU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yegy7WGIJIiIC4VN6rdF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" edge="1" parent="q34dCDONzooLWPpxG54O-1" source="2i9bHOm-gdq7FOkkqi6v-11" target="Ac96wr7Wo4nM_YrJI3CU-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2i9bHOm-gdq7FOkkqi6v-11" value="Daten Speichern" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="q34dCDONzooLWPpxG54O-1" vertex="1">
           <mxGeometry x="269" y="490" width="120" height="40" as="geometry" />
         </mxCell>
@@ -327,11 +333,11 @@
         <mxCell id="2i9bHOm-gdq7FOkkqi6v-14" value="after OCR, patient should be able to update disease type, get informed the insurance coverage with validity check, able to continue with private pay" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;strokeColor=#000000;" parent="q34dCDONzooLWPpxG54O-1" vertex="1">
           <mxGeometry x="590" y="280" width="265" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="l033wOQedcvUOWr-XbWR-1" value="&lt;font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Rezept upload form&lt;br&gt;-Patient info&lt;br&gt;-Doctor info&lt;br&gt;-Insurance info&lt;br&gt;-product info&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
-          <mxGeometry x="10" y="132" width="100" height="20" as="geometry" />
+        <mxCell id="l033wOQedcvUOWr-XbWR-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Rezept upload form&lt;/b&gt;&lt;/div&gt;&lt;font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;-Patient info&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-Doctor info&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-Insurance info&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-product info&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
+          <mxGeometry y="280" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l033wOQedcvUOWr-XbWR-71" value="- Pflegegrad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
-          <mxGeometry x="10" y="213" width="80" height="20" as="geometry" />
+          <mxGeometry x="-60" y="400" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E143lUBNFCmcJHzHBwGq-1" value="Private pay shop" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
           <mxGeometry x="480" y="440" width="120" height="40" as="geometry" />
@@ -355,7 +361,78 @@
           <mxGeometry x="80" y="400" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rbLHCqaphAN-nanW4xN4-1" value="there is possiblity to check cost estimation with insurance, which should be considered as a factor to validate the prescription in term of cost coverage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
-          <mxGeometry x="-11" y="500" width="280" height="20" as="geometry" />
+          <mxGeometry x="-70" y="450" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9qqb9Oh9G1Dnsdk3l6xn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" edge="1" parent="q34dCDONzooLWPpxG54O-1" source="Ac96wr7Wo4nM_YrJI3CU-0" target="9qqb9Oh9G1Dnsdk3l6xn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qqb9Oh9G1Dnsdk3l6xn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" edge="1" parent="q34dCDONzooLWPpxG54O-1" source="Ac96wr7Wo4nM_YrJI3CU-0" target="9qqb9Oh9G1Dnsdk3l6xn-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ac96wr7Wo4nM_YrJI3CU-0" value="Zur Beratung (Anamnesis)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
+          <mxGeometry x="144" y="585" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ac96wr7Wo4nM_YrJI3CU-1" value="Product finden" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
+          <mxGeometry x="374" y="585" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9qqb9Oh9G1Dnsdk3l6xn-0" value="Mir Fragebogen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
+          <mxGeometry x="220.5" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9qqb9Oh9G1Dnsdk3l6xn-1" value="Mit telefonischer Beratung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
+          <mxGeometry x="67.5" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8lt_BexI9gaXcQEgocRM" name="Anamneseprozess">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="eGC-7imbVLmDfGmRkEiL-0" />
+        <mxCell id="eGC-7imbVLmDfGmRkEiL-1" parent="eGC-7imbVLmDfGmRkEiL-0" />
+        <mxCell id="xjouxH2v024oqY-X4Osb-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7EA6E0;" edge="1" parent="eGC-7imbVLmDfGmRkEiL-1" source="xjouxH2v024oqY-X4Osb-1" target="xjouxH2v024oqY-X4Osb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjouxH2v024oqY-X4Osb-1" value="Inkontinenzform (5 questions)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="eGC-7imbVLmDfGmRkEiL-1">
+          <mxGeometry x="80" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xjouxH2v024oqY-X4Osb-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7EA6E0;" edge="1" parent="eGC-7imbVLmDfGmRkEiL-1" source="xjouxH2v024oqY-X4Osb-3" target="xjouxH2v024oqY-X4Osb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjouxH2v024oqY-X4Osb-3" value="Einflussfaktoren (3 questions)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="eGC-7imbVLmDfGmRkEiL-1">
+          <mxGeometry x="80" y="473" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xjouxH2v024oqY-X4Osb-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7EA6E0;" edge="1" parent="eGC-7imbVLmDfGmRkEiL-1" source="xjouxH2v024oqY-X4Osb-5" target="xjouxH2v024oqY-X4Osb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjouxH2v024oqY-X4Osb-5" value="Versorgungssituation (4 questions)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="eGC-7imbVLmDfGmRkEiL-1">
+          <mxGeometry x="80" y="527" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xjouxH2v024oqY-X4Osb-6" value="Wohlfühlfaktoren" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="eGC-7imbVLmDfGmRkEiL-1">
+          <mxGeometry x="80" y="580.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igWD5oE9TLMEyOKMKO6o-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eGC-7imbVLmDfGmRkEiL-1">
+          <mxGeometry x="80" y="320" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igWD5oE9TLMEyOKMKO6o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="eGC-7imbVLmDfGmRkEiL-1" source="igWD5oE9TLMEyOKMKO6o-1" target="xjouxH2v024oqY-X4Osb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igWD5oE9TLMEyOKMKO6o-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Inkontinenz&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="eGC-7imbVLmDfGmRkEiL-1">
+          <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igWD5oE9TLMEyOKMKO6o-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Diabetes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="eGC-7imbVLmDfGmRkEiL-1">
+          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igWD5oE9TLMEyOKMKO6o-4" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Entero-Erostoma&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#432D57;fontColor=#ffffff;fillColor=#000066;" vertex="1" parent="eGC-7imbVLmDfGmRkEiL-1">
+          <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igWD5oE9TLMEyOKMKO6o-5" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Tracheostoma&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#B09500;fontColor=#ffffff;fillColor=#e3c800;" vertex="1" parent="eGC-7imbVLmDfGmRkEiL-1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igWD5oE9TLMEyOKMKO6o-6" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Ernährung&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#432D57;fontColor=#ffffff;fillColor=#000066;" vertex="1" parent="eGC-7imbVLmDfGmRkEiL-1">
+          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igWD5oE9TLMEyOKMKO6o-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Pflegehilfsmittle&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#432D57;fontColor=#ffffff;fillColor=#76608a;" vertex="1" parent="eGC-7imbVLmDfGmRkEiL-1">
+          <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
