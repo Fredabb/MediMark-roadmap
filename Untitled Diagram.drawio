@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-07-28T11:26:35.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="ZtISViwBPjk7NrM5UDnh" version="13.5.3" type="github" pages="2">
-  <diagram id="yzNUyQcvRCuZJqu9L7W9" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-07-28T12:14:35.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="SDYCZ-BL7QoSo0PF92Fn" version="13.5.3" type="github" pages="2">
+  <diagram id="yzNUyQcvRCuZJqu9L7W9" name="Overview ">
     <mxGraphModel dx="1944" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -278,7 +278,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tFsazot5UDuzvN4bmBim" name="Page-2">
-    <mxGraphModel dx="1303" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2130" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q34dCDONzooLWPpxG54O-0" />
         <mxCell id="q34dCDONzooLWPpxG54O-1" parent="q34dCDONzooLWPpxG54O-0" />
@@ -353,6 +353,9 @@
         </mxCell>
         <mxCell id="rbLHCqaphAN-nanW4xN4-0" value="- IK nummer&lt;br&gt;- versicherung nummer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
           <mxGeometry x="80" y="400" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rbLHCqaphAN-nanW4xN4-1" value="there is possiblity to check cost estimation with insurance, which should be considered as a factor to validate the prescription in term of cost coverage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q34dCDONzooLWPpxG54O-1">
+          <mxGeometry x="-11" y="500" width="280" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
